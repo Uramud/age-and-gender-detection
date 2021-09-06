@@ -1,14 +1,5 @@
 dataset/age_gender.csv
 gender_detect_with_image_folder/gender_detection.h5
-untitled_age_25.h5
-untitled_age_31.h5
-untitled_age_32.h5
-untitled_age_45.h5
-untitled_age_47.h5
-untitled_age_50.h5
-untitled_age_94.h5
-untitled_age.h5
-untitled_age_451.h5
-untitled_gender_67h5
-untitled_gender.h5
+AgeModel/
+GenderModel/
 /venv/
