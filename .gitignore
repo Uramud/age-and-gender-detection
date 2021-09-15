@@ -1,5 +1,7 @@
-dataset/age_gender.csv
+dataset/
 gender_detect_with_image_folder/gender_detection.h5
 AgeModel/
 GenderModel/
+testing/crop_part1/
+testing/UTKFace/
 /venv/
